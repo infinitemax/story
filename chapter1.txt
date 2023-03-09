@@ -3,3 +3,5 @@ Hello there everyone
 This is a cool way to edit a file!!
 
 I'm adding some other ideas to my new branch
+
+adding further new ideas to see what this does re the branches in my github
