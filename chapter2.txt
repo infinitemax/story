@@ -1,3 +1,5 @@
 This is my second chapter, having a great time using vim
 
 I'm now editing it a bit to have another go with git
+
+Adding some other ideas
